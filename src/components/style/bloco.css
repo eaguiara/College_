@@ -41,14 +41,14 @@
 .bloco-title {
     font-family: 'Fraunces';
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 32px;
     color: hsl(212, 21%, 14%)
 }
 
 .bloco-description {
     font-family: 'Montserrat';
     font-weight: 500;
-    font-size: 0.9rem;
+    font-size: 14px;
     color: hsl(228, 12%, 48%);
 }
 

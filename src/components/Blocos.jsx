@@ -1,6 +1,6 @@
 import './style/bloco.css'
-import perfume from './images/perfume.jpg'
-import icon from './images/icon-cart.svg'
+import perfume from './images/perfume.png'
+import icon from './images/icon.svg'
 export function Blocos(){
     return (
         <div className="bloco">

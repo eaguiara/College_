@@ -1,4 +1,4 @@
-import  Blocos  from '../components/Blocos'
+import   {Blocos } from './components/Blocos'
 function App() {
 
   return (
